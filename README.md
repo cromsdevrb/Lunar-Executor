@@ -1,6 +1,6 @@
 # 🌙 Lunar Executor 🚀
 
-Welcome to the Luna Executor repository! This powerful tool allows you to execute custom scripts within Roblox, giving you the ability to exploit and modify various game features. Whether you're a seasoned Roblox Lua scripter or just getting started, Luna Executor provides you with the tools to enhance your Roblox gameplay experience. 
+Welcome to the Roblox Luna Executor repository! This powerful tool allows you to execute custom scripts within Roblox, giving you the ability to exploit and modify various game features. Whether you're a seasoned Roblox Lua scripter or just getting started, Luna Executor provides you with the tools to enhance your Roblox gameplay experience. 
 
 ![Preview](https://github.com/cromsdevrb/Lunar-Executor/blob/main/LunaPeview.jpeg)
 
