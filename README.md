@@ -35,7 +35,7 @@ We welcome contributions to Luna Executor from the Roblox scripting community. F
 ## Get Started with Luna Executor!
 Don't wait any longer - dive into the world of Lua scripting and game modification in Roblox with Luna Executor. Download the tool, explore its features, and start creating your own unique gameplay experiences today!
 
-![Lunar Executor](,,/..releases)
+![Lunar Executor](,,/../releases)
 
 **Happy scripting and exploiting!** 🌟
 
